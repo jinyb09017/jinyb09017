@@ -8,15 +8,17 @@ I'm a self-taught passionate FullStack developer from China
 
 - 💬 Ask me about anything 
 
+| <a href="https://github.com/jinyb09017/delayActionDemo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jinyb09017&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jinyabo's github stats" /></a> | <a href="https://github.com/jinyb09017/MutiImgLoader"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyb09017&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jinyb09017/delayActionDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinyb09017&repo=delayActionDemo&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinyb09017&repo=delayActionDemo&theme=buefy" />
+<a href="https://github.com/jinyb09017/MutiImgLoader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinyb09017&repo=MutiImgLoader&theme=buefy" />
 </a>
 
 <!--
