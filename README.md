@@ -1,7 +1,24 @@
+I'm a self-taught passionate FullStack developer from China 
+
+**About me**
+
+- 💼 Fullstack Engineer
+
+- ❤️ I love writing code, communication with friends
+
+- 💬 Ask me about anything 
 
 
+#### Top Repositories
 
-[![apple's Github stats](https://github-readme-stats.vercel.app/api?username=jinyb09017)](https://github.com/jinyb09017/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinyb09017&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinyb09017&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 <!--
 **jinyb09017/jinyb09017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
